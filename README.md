@@ -16,7 +16,7 @@
 *katakata-random* adalah proyek web sederhana yang menampilkan kutipan-kutipan absurd disertai emoji secara acak. Cocok untuk hiburan, iseng, dan nambah semangat dengan cara yang nggak biasa.
 
 ## 📸 Screenshot
-![Tampilan Aplikasi](assets/screenshot.png)
+![Tampilan Aplikasi](screenshot.png)
 
 ## ✨ Fitur
 - Menampilkan kutipan acak tiap refresh
