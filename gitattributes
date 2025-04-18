@@ -1,0 +1,8 @@
+# Normalisasi line endings ke LF
+* text=auto
+
+# File JavaScript dan JSON pakai LF
+*.js text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
